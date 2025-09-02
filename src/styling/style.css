@@ -1,0 +1,11 @@
+.logo-img {
+    width: 4rem;
+}
+
+.b-img {
+    width: 7rem;
+    height: 7rem;
+    background: #000;
+    border-radius: 50%;
+    margin-bottom: 0.5rem;
+}
