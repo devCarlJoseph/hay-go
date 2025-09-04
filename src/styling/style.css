@@ -3,6 +3,5 @@
 @import url(breakpoints.css);
 
 body {
-    background-color: #e3e1e1;
     scroll-behavior: smooth;
 }
